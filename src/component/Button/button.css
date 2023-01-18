@@ -7,7 +7,9 @@
     align-items: center;
     text-align: center;
     margin: auto;
-  
+    margin-top: 50px;
+    border: 2px solid black;
+    
 }
 
 .button:hover{
@@ -16,7 +18,20 @@
     cursor: pointer;
 }
 
-.button
+
+.button-container{
+    width: 600px;
+    height: 600px;
+    background-color: lightgray;
+    border-radius: 50%;
+    border: 2px solid black;
+    justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+        
+}
+
 
 
 

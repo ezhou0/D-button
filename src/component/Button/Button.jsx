@@ -11,10 +11,12 @@ const Button = () =>{
 
     return(
         <>
-            <div className='button' onClick={play}>
-                <h1 className="button-text">
-                    Button
-                </h1>
+            <div className="button-container">
+                <div className='button' onClick={play}>
+                    <h1 className="button-text">
+                        DEEZ
+                    </h1>
+                </div>
             </div>
         </>
         
